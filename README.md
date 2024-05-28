@@ -2,7 +2,7 @@
 
 
 
-# 🦸‍♂️ Jornada do <DEV/> - Derrotando a Síndrome do Impostor no TI.​
+# 🦸‍♂️ Jornada do DEV - Derrotando a Síndrome do Impostor no TI.​
 Este repositório contém o eBook "Jornada do <DEV/> - Derrotando a Síndrome do Impostor no TI", um guia que utiliza a clássica estrutura da Jornada do Herói para ajudar aspirantes a desenvolvedores a superar a Síndrome do Impostor. 
 
 ## 📖 Leia o Livro
