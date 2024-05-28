@@ -1,5 +1,5 @@
-![image](https://github.com/fernanda-avila/ebook-jornada-heroi/assets/153337144/1b135330-c9cf-4759-b5f7-dcea5e65d26d)
-![image](https://github.com/fernanda-avila/ebook-jornada-heroi/assets/153337144/f362aa37-2ab7-4298-b737-6e24c0d37451)
+![image](https://github.com/fernanda-avila/ebook-jornada-heroi/assets/153337144/ad539d2c-66d0-47fe-a17a-71814cb5e45a)
+
 
 
 # 🦸‍♂️ Jornada do <DEV/> - Derrotando a Síndrome do Impostor no TI.​
