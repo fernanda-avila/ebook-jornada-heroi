@@ -5,6 +5,11 @@
 # 🦸‍♂️ Jornada do <DEV/> - Derrotando a Síndrome do Impostor no TI.​
 Este repositório contém o eBook "Jornada do <DEV/> - Derrotando a Síndrome do Impostor no TI", um guia que utiliza a clássica estrutura da Jornada do Herói para ajudar aspirantes a desenvolvedores a superar a Síndrome do Impostor. 
 
+## 📖 Leia o Livro
+
+Leia o livro completo clicando [aqui](https://github.com/fernanda-avila/ebook-jornada-heroi/blob/main/a%20jornada%20do%20dev.pdf).
+
+
 ## 📚 Metodologia
 
 Para criar este eBook, usei uma combinação de cada passo da Jornada do Herói com cada etapa da jornada esperada de um desenvolvedor de TI. Abaixo, descrevo brevemente o método utilizado e forneço templates de prompts genéricos que podem ser utilizados para criar conteúdo semelhante.
